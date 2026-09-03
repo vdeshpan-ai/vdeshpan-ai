@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am Database Engineer by profession and Cloud enthusiast, 
+While exploring  cloud learning resources stumbled upon Learn to Cloud by GPS(https://learntocloud.guide/) so exploring them .
+ 
 <!--
 **vdeshpan-ai/vdeshpan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
