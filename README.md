@@ -4,7 +4,7 @@ I specialize in designing, optimizing, and managing scalable database architectu
 
 - Focus Area: Database administration, performance tuning, and cloud data architecture.
 - Cloud Passion: Building highly available, fault-tolerant systems in the cloud.
-- Current Goals: Exploring distributed databases and automated cloud infrastructure management.🛠️ T
+- Current Goals: Exploring distributed databases and automated cloud infrastructure management.
 
 ### Tech Stack & Skills
 - Databases: Oracle ,PostgreSQL, MongoDB 
