@@ -1,6 +1,18 @@
-## Hi there 👋
-I am Database Engineer by profession and Cloud enthusiast, 
-While exploring  cloud learning resources stumbled upon Learn to Cloud by GPS(https://learntocloud.guide/) so exploring it .
+## Hi there I'm a Database Engineer & Cloud Enthusiast!👋
+
+I specialize in designing, optimizing, and managing scalable database architectures, with a strong passion for cloud technologies and infrastructure. 
+
+- Focus Area: Database administration, performance tuning, and cloud data architecture.
+- Cloud Passion: Building highly available, fault-tolerant systems in the cloud.
+- Current Goals: Exploring distributed databases and automated cloud infrastructure management.🛠️ T
+
+### Tech Stack & Skills
+- Databases: Oracle ,PostgreSQL, MongoDB 
+- Cloud Platforms: AWS • Microsoft Azure 
+- Languages: SQL • Python • Bash
+
+🌐 Connect With Me
+LinkedIn: [linkedin.com](www.linkedin.com/in/vivekdeshpande19)
  
 <!--
 **vdeshpan-ai/vdeshpan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
