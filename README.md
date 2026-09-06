@@ -11,9 +11,9 @@ I specialize in designing, optimizing, and managing scalable database architectu
 - Cloud Platforms: AWS • Microsoft Azure 
 - Languages: SQL • Python • Bash
 
-🌐 Connect With Me
-LinkedIn: [linkedin.com](www.linkedin.com/in/vivekdeshpande19)
- 
+## 🌐 Connect With Me
+* **LinkedIn:** [linkedin.com/in/vivekdeshpande19](https://linkedin.com)
+
 <!--
 **vdeshpan-ai/vdeshpan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
